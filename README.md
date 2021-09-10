@@ -27,7 +27,7 @@
 * ./python3 compute_answers.py PATH_TO_DATASET 
 
 ### Who do I talk to? ###
-* Luca Rispoli - luca.rispoli@studio.unibo.it
+
 * Andrea Lavista - andrea.lavista@studio.unibo.it
 * Daniele Domenichelli - daniele.domenichell2@studio.unibo.it
-
+* Luca Rispoli - luca.rispoli@studio.unibo.it
